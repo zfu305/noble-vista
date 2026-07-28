@@ -2,47 +2,68 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Zing Fu
+  given: Zih-YIng
+  family: Fu
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "🔬"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: PhD student in Optical Imaging and Spectroscopy Lab at Georgia Tech
+email: zihyingfu@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Second-Year PhD student in Optical Imaging and Spectroscopy Lab at Georgia Tech. 
+  Previously graduated master student in Precision Metrology Lab at National Taiwan University.
+  Research Interests: Optics, microscopy, precision metrology, and computataional imaging.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: Optical Imaging and Spectroscopy Lab, Georgia Institute of Technology
+    url: https://robleslab.gatech.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
-    label: E-mail Me
+    url: zihyingfu@gmail.com
+    label: E-mail Me!!!
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/zfu305
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: linkedin.com/in/zih-ying-fu-14650b312
+  - icon: brands/instagram
+    url: https://www.instagram.com/zing_fu/
+  - icon: brands/facebook
+    url: https://www.facebook.com/zing.fu.5
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Optics and Photonics
+  - Microscopy
+  - Precision Metrology
+  - Computational Imaging
+  - AI Applications
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: B.S. Mechanical Engineering
+    institution: National Taiwan University
+    start: 2017-09-01
+    end: 2021-06-30
+  - degree: M.S. Mechanical Engineering
+    institution: National Taiwan University
+    start: 2021-07-01
+    end: 2023-12-31
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Focus on precision metrology and automated optical inspection for semiconductor process control.
+      Master Thesis: Development of a high precision hybrid optical scatterometry using artificial neural network and Bayesian analysis for measuring surface morphology of high aspect ratio sub-micron semiconductor structures.
+      Projects: 
+      - A supercontinuum laser based optical reflectometry for in-line ADI, AEI, and RDL semiconductor structures.
+      - A reflective DUV reflectometry for high aspect ratio structures and thin films.
+      - A reflective DUV scatterometry for measuring optical critical dimensions of high aspect ration sub-micron through-silicon vias.
+  - degree: PhD Student, Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    start: 2024-08-01
+    end: present
+    summary: |
+      Focus on optical engineering and computational imaging for biomedical applications.
+      Projects:
+      - Computational complex reconstruction and aberration correction for quantitative oblique back-illumination microscopy.
+      - A computational framework for missing-cone restoration in diffraction tomography.
     button:
       text: View Project
       url: https://github.com/alexjohnson/senior-project
